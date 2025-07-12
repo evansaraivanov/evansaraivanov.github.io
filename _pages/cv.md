@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, Stony Brook University, 2027 (expected)
+* M.A. in Physics, Stony Brook Univeristy, 2023
+* B.S. in Physics, University of Washington, 2021
+* B.A. in Mathematics, University of Washington, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2025 - Present: Graduate Assistant
+  * C.N. Yang Institute for Theoretical Physics
+  * Supervisor: Professor Vivian Miranda
   
-Skills
+* Autumn 2021 - Spring 2022 and Autumn 2023 - Autumn 2024: Teaching Assistant
+  * Stony Brook University Department of Physics and Astronomy
+  * Taught the introductory physics course and undergraduate cosmology courses.
+
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2025 Young Author Award for the Institute for Advanced Computation Science at Stony Brook 
+* 2024 Lourie Fellowship
+* 2024 David Fox Prize for Outstanding Teaching Assistant
+* 2023 Peter B. Kahn Research/Travel Award
+* 2020 Mary Gates Research Scholar
 
 Publications
 ======
@@ -59,6 +52,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
