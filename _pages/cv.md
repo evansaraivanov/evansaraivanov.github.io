@@ -28,6 +28,8 @@ Work experience
 
 Awards
 ======
+* 2026 Doctoral student award at the Institute for Advanced Computation Science at Stony Brook
+* 2025 Cosmo25 best poster award
 * 2025 Young Author Award for the Institute for Advanced Computation Science at Stony Brook 
 * 2024 Lourie Fellowship
 * 2024 David Fox Prize for Outstanding Teaching Assistant
